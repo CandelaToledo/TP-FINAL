@@ -1,0 +1,164 @@
+body{
+    background-image: linear-gradient(to top, rgba(168, 237, 233, 0.5) 0%, rgba(254, 214, 227, 0.5) 100%);
+
+}
+.titulo {
+    font-size: 'Poppins', sans-serif;;
+    margin-top: 5px;
+    margin-left: 40%;
+    position: absolute;
+    font-size: 50px;
+}
+section{
+    column-count: 2;
+
+}
+.texto{
+    
+    margin-left: -15%;
+    margin-top: 15px;
+    font-size: 15px;
+
+}
+.contenedor{ 
+    position: relative;
+    display: inline-block;
+
+}
+.carne{
+    font-family: Arial, Helvetica, sans-serif;
+    color: firebrick;
+    font-size: 30px;
+    margin-top: 25%;
+    margin-left: 8%;
+}
+
+.link_carne{
+   
+    margin-left: 0%;
+    font-size: 14.5px;
+    color: black;
+    
+}
+.mila{
+    font-family: Arial, Helvetica, sans-serif;
+    color: firebrick;
+    font-size: 30px;
+    margin-top: 25%;
+    margin-left: 8%;
+}
+.link_mila{
+   
+    margin-left: 0%;
+    font-size: 14.5px;
+    color: black;
+    
+}
+.noquis{
+    font-family: Arial, Helvetica, sans-serif;
+    color: firebrick;
+    font-size: 30px;
+    margin-top: 25%;
+    margin-left: 8%;
+}
+.link_noquis{
+   
+    margin-left: 0%;
+    font-size: 14.5px;
+    color: black;
+    
+}
+.pizza{
+    font-family: Arial, Helvetica, sans-serif;
+    color: firebrick;
+    font-size: 30px;
+    margin-top: 25%;
+    margin-left: 8%;
+}
+.link_pizza{
+   
+    margin-left: 0%;
+    font-size: 14.5px;
+    color: black;
+    
+}
+.papas{
+    font-family: Arial, Helvetica, sans-serif;
+    color: firebrick;
+    font-size: 30px;
+    margin-top: 25%;
+    margin-left: 8%;
+}
+.link_papas{
+   
+    margin-left: 0%;
+    font-size: 14.5px;
+    color: black;
+    
+}
+.alfajor{
+    font-family: Arial, Helvetica, sans-serif;
+    color: firebrick;
+    font-size: 30px;
+    margin-top: 25%;
+    margin-left: 8%;
+}
+.link_alfajor{
+   
+    margin-left: 0%;
+    font-size: 14.5px;
+    color: black;
+    
+}.cheesecake{
+    font-family: Arial, Helvetica, sans-serif;
+    color: firebrick;
+    font-size: 30px;
+    margin-top: 25%;
+    margin-left: 8%;
+}
+.link_cheesecake{
+   
+    margin-left: 0%;
+    font-size: 14.5px;
+    color: black;
+    
+}.Pasta-Frola{
+    font-family: Arial, Helvetica, sans-serif;
+    color: firebrick;
+    font-size: 30px;
+    margin-top: 25%;
+    margin-left: 8%;
+}
+.link_pf{
+   
+    margin-left: 0%;
+    font-size: 14.5px;
+    color: black;
+    
+}.golpes{
+    font-family: Arial, Helvetica, sans-serif;
+    color: firebrick;
+    font-size: 30px;
+    margin-top: 25%;
+    margin-left: 8%;
+}
+.link_g{
+   
+    margin-left: 0%;
+    font-size: 14.5px;
+    color: black;
+    
+}.torta{
+    font-family: Arial, Helvetica, sans-serif;
+    color: firebrick;
+    font-size: 30px;
+    margin-top: 25%;
+    margin-left: 8%;
+}
+.link_torta{
+   
+    margin-left: 0%;
+    font-size: 14.5px;
+    color: black;
+
+}

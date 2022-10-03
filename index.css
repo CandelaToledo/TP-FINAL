@@ -1,0 +1,57 @@
+*{
+    background-image: linear-gradient(to top, rgba(168, 237, 233, 0.5) 0%, rgba(254, 214, 227, 0.5) 100%);
+}
+.caja{
+    position: relative;
+    display: inline-block;
+}
+.fondo{
+    background-position: center;
+    margin-top: 2%;
+    margin-left: 2%;
+}
+
+.texto1{
+    position: absolute;
+    right:30%;
+    margin-top: 190px;
+    top: 10%;
+    font-family: Georgia,  'Times New Roman';
+    font-size: 50px;
+    color: black;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.texto2{
+    position: absolute;
+    top: 52%;
+    margin-left: 40%;
+    font-size: 25px;
+    color: black;
+}
+.click{
+    top: 68%;
+    position: absolute;    
+    margin-left: 45%;
+    font-size: 100%;
+    color: black;
+}
+.plato{
+    position: absolute;
+        top: 75%;
+        margin-left: 52%;
+        cursor: pointer;
+        height: 45px;    
+        width: 45px;
+        
+}
+
+script{
+    background-color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+
